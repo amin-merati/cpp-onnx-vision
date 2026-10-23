@@ -1,0 +1,7 @@
+/build*/
+/deps/
+/models/
+/data/
+*.f32
+__pycache__/
+.venv/
